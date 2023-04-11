@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0934a92c-e8e2-440c-b67b-87d6ac9cd864" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/我不想当妖皇的日子 by 剪水II.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/极道天魔 by 滚开.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,10 @@
   </component>
   <component name="ProjectId" id="2AIt87tgvrVSaIF4jpSohyANa3Y" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TerminalFX-master/TerminalFX-master" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,7 +43,29 @@
       <option name="presentableId" value="Default" />
       <updated>1654708764596</updated>
       <workItem from="1654708767055" duration="2000" />
+      <workItem from="1668085408761" duration="48000" />
+      <workItem from="1668085468685" duration="1414000" />
+      <workItem from="1668349013851" duration="1015000" />
+      <workItem from="1669647592011" duration="595000" />
+      <workItem from="1679118603282" duration="23000" />
+      <workItem from="1679118635613" duration="35000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
